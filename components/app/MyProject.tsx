@@ -20,8 +20,8 @@ const MyProject = (props: Props) => {
     },
     {
       id: 2,
-      name: "Sell Management",
-      url: "https://stock-management-react.netlify.app",
+      name: "Sell Tool Online",
+      url: "https://nextjs-sell-tool.vercel.app/",
       image: Sell,
     },
     {
@@ -33,7 +33,7 @@ const MyProject = (props: Props) => {
     {
       id: 4,
       name: "One To One Video Call",
-      url: "https://spectacular-lamington-8fc5dd.netlify.app/",
+      url: "https://www.youtube.com/watch?v=8X28owT0hEo&t=289s",
       image: VideoCall,
     },
   ];
