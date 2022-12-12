@@ -3,7 +3,7 @@
 import React from "react";
 import SocialMedia from "../../public/social_media.png";
 import Image from "next/image";
-import Sell from "../../public/sell.png";
+import Chat from "../../public/chat.png";
 import VideoCall from "../../public/video_call.png";
 import FoodOrder from "../../public/food_order.jpg";
 import Card from "../util/Card";
@@ -20,9 +20,9 @@ const MyProject = (props: Props) => {
     },
     {
       id: 2,
-      name: "Sell Tool Online",
-      url: "https://nextjs-sell-tool.vercel.app/",
-      image: Sell,
+      name: "Real Time Chat",
+      url: "https://chat-app-nextjs-bay.vercel.app/",
+      image: Chat,
     },
     {
       id: 3,

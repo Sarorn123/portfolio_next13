@@ -49,6 +49,7 @@ const Contact = (props: Props) => {
           rules={[{ required: true, message: "Email Is Required !" }]}
         >
           <Input
+            type="email"
             size="large"
             placeholder="Your Email ..."
             maxLength={10}
